@@ -1,4 +1,4 @@
-## Data Transformation and Data Visualisation Using Global Superstore Data
+# Data Transformation and Data Visualisation Using Global Superstore Data
 
 ## Overview
 This repository contains a Power BI Assignment featuring a sample Global Superstore dataset and an interactive report. The Assignment showcases various visualizations and insights from Global Superstore data.
